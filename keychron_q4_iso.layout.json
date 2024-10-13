@@ -1,7 +1,24 @@
 {
   "name": "Keychron Q4 ISO",
   "vendorProductId": 875823426,
-  "macros": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
+  "macros": [
+    "{KC_G}{+KC_R}{+KC_A}{-KC_R}{-KC_A}{KC_H}{KC_A}{KC_M}{+KC_LSFT}{+KC_QUOT}{-KC_LSFT}{-KC_QUOT}{+KC_E}{+KC_F}{-KC_E}{-KC_F}{+KC_F}{+KC_E}{-KC_F}{-KC_E}{KC_C}{KC_T}{KC_I}{KC_F}{KC_DOT}{+KC_C}{+KC_O}{-KC_C}{+KC_M}{-KC_O}{-KC_M}",
+    "{KC_H}{KC_E}{KC_L}{KC_L}{KC_O}{+KC_LSFT}{+KC_QUOT}{-KC_LSFT}{-KC_QUOT}{KC_G}{+KC_R}{+KC_A}{-KC_R}{+KC_H}{-KC_A}{-KC_H}{KC_A}{KC_M}{+KC_A}{+KC_S}{-KC_A}{-KC_S}{KC_H}{+KC_T}{+KC_O}{-KC_T}{+KC_N}{-KC_O}{-KC_N}{KC_DOT}{KC_D}{+KC_E}{+KC_V}{-KC_E}{-KC_V}",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
   "layers": [
     [
       "KC_GRV",
@@ -270,8 +287,8 @@
       "KC_TRNS",
       "KC_PGUP",
       "KC_END",
-      "KC_TRNS",
-      "KC_TRNS",
+      "MACRO(0)",
+      "MACRO(1)",
       "KC_TRNS",
       "KC_TRNS",
       "KC_NO",
